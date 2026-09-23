@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow",
+  "description": "Daily expense tracker with monthly calculations, interactive radar and pie charts, budget insights, and next-month savings recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
